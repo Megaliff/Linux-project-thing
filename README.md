@@ -6,7 +6,7 @@ Also, if you're wondering this distro is based on Debian, made using Linux Live 
 
 # What you need to do... or at least that's what I think:
 
-- First, download the repo. Now, the core file is currently missing for some reason, so here is the link: [https://drive.google.com/file/d/11W0JOJlnBXzfW3yrP4-mJgksB5odSdA1/view?usp=share_link. Place the .sb file onto the linux folder]
+- First, download the repo. Now, the core file is currently missing for some reason, so here is the link: [https://drive.google.com/file/d/11W0JOJlnBXzfW3yrP4-mJgksB5odSdA1/view?usp=share_link. Place the .sb file onto the LinuxProject/linux]
 - Find and read the boot.txt in the LinuxProject folder if you want to know how to make bootable media (CD/DVD, USB stick, whatever)
 
 Ig that's it, k bye
